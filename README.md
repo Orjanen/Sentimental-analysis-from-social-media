@@ -1,7 +1,7 @@
 Sentiment analyssis from social media
 ==============================
 
-In this project, I will perform a sentiment analysis on several different datasets. The goal is to construct the models based on the NLP techniques of Fastai. At the end of the project, I will hopefully gain solid experience with the objectives, challenges and pitfalls of this sentiment analysis approach. 
+In this project, I will perform a sentiment analysis on several different datasets. The goal is to construct the models based on the NLP techniques of Fastai. At the end of the project, I will hopefully have gained solid experience with the objectives, challenges and pitfalls of this sentiment analysis approach. 
 
 Besides the goals, I will also try to construct a dataset by scraping one or more internet sources.
 
