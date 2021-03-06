@@ -5,6 +5,8 @@ In this project, I will perform a sentiment analysis on several different datase
 
 Besides the goals, I will also try to construct a dataset by scraping one or more internet sources.
 
+![sentiment](figures/sentiment-fig.jpg)
+
 Project Organization
 ------------
 
