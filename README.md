@@ -16,7 +16,7 @@ Project Organization
     │
     ├── figures            <- Generated figures    
     │
-    ├── data
+    ├── src
     │   ├── TwitterScraper <- Code for scraping twitter tweets
    
 --------
