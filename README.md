@@ -10,8 +10,6 @@ Besides the goals, I will also try to construct a dataset by scraping one or mor
 Project Organization
 ------------
 
-    ├── models             <- Train models from the different notebooks
-    │
     ├── notebooks          <- Jupyter notebooks 
     │
     ├── figures            <- Generated figures    
