@@ -10,12 +10,11 @@ Besides the goals, I will also try to construct a dataset by scraping one or mor
 Project Organization
 ------------
 
-    ├── figures            <- Generated figures  
+    ├── figures            	 <- Generated figures  
     │
-    ├── notebooks          <- Jupyter notebooks 
-    │
-    ├── src
-    │   ├── TwitterScraper <- Code for scraping twitter tweets
+    ├── notebooks          	 <- Jupyter notebooks 
+    │   ├── src
+    │       ├── TwitterScraper  <- Code for scraping twitter tweets
    
 --------
 
