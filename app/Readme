@@ -1,0 +1,4 @@
+The flask and react app is hosted on heroku. Follow the link but keep in mind that heroku first have to start the web dyno for the react app and than for the flask
+flask application. Have patience
+
+https://sentiment-react.herokuapp.com
