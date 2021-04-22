@@ -9,7 +9,11 @@ Besides the goals, I will also try to construct a dataset by scraping one or mor
 
 Project Organization
 ------------
-
+    
+    ├── app                	 <- link to the application running on heroku 
+    │
+    ├── dataset            	 <- datasets
+    │
     ├── figures            	 <- Generated figures  
     │
     ├── notebooks          	 <- Jupyter notebooks 
